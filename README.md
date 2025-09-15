@@ -36,9 +36,9 @@ The goal is to uncover patterns, highlight strengths, and recommend actions to i
 
 ## 📊 Visuals / Dashboard  
 Below is a preview of the dashboard created in Power BI:  
-![](https://github.com/Rahmatullah-OY/Employee-Survey-Responses/blob/main/SURVEY%20DD%20CAPSTONE%20PROJECT.pdf)
+![](https://github.com/Rahmatullah-OY/Employee-Survey-Responses/blob/main/Screenshot%20(150).png)
 
-[Dashboard](https://github.com/Rahmatullah-OY/Employee-Survey-Responses/blob/main/SURVEY%20DD%20CAPSTONE%20PROJECT.pdf)
+[Dashboard](https://github.com/Rahmatullah-OY/Employee-Survey-Responses/blob/main/Screenshot%20(150).png)
 
 ---
 
