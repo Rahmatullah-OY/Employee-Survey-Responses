@@ -36,9 +36,9 @@ The goal is to uncover patterns, highlight strengths, and recommend actions to i
 
 ## 📊 Visuals / Dashboard  
 Below is a preview of the dashboard created in Power BI:  
-![](https://github.com/Rahmatullah-OY/Employee-Survey-Responses/blob/main/Screenshot%20(156).png)
+![](https://github.com/Rahmatullah-OY/Employee-Survey-Responses/blob/main/SURVEY%20DD%20CAPSTONE%20PROJECT.pdf)
 
-[Dashboard](https://github.com/Rahmatullah-OY/Employee-Survey-Responses/blob/main/Screenshot%20(156).png)
+[Dashboard](https://github.com/Rahmatullah-OY/Employee-Survey-Responses/blob/main/SURVEY%20DD%20CAPSTONE%20PROJECT.pdf)
 
 ---
 
@@ -64,7 +64,7 @@ Below is a preview of the dashboard created in Power BI:
 
 ## 🚀 How to Run the Project  
 1. Clone this repository.  
-2. Open the Power BI file (Employee_Survey.pbix) in Power BI Desktop.  
+2. Open the Power BI file in Power BI Desktop.  
 3. Explore the interactive dashboard.  
 
 ---
@@ -75,10 +75,10 @@ Below is a preview of the dashboard created in Power BI:
 ---
 
 ## 👤 Author  
-*Rahmatullah Yakubu (Tech Mum Chronicles)*  
-- 🌐 [GitHub Profile](https://github.com/YourUsername)  
+*Rahmatullah Onyinoyi Yakubu (Tech Mum Chronicles)*  
+- 🌐 [GitHub Profile](https://github.com/Rahmatullah-OY)  
 
-- 📝 [Portfolio/Other Links]  
+- 📝[Portfolio/Other project link](https://github.com/Rahmatullah-OY/Dano-Airline-Satisfaction-Dashboard.git) 
 
 ---
 
